@@ -1,0 +1,25 @@
+body {
+    background-color:rgb(137, 185, 231);
+    color: rgb(62, 61, 59);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    padding: 0 0 25px 0;
+    margin: 0px;
+}
+
+ul li {
+    margin: 5px;
+    padding: 3px;
+    background: white;
+}
+
+.details {
+    border-style: dotted;
+    border-color: white;
+    padding: 20px;
+}
