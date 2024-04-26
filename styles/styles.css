@@ -22,4 +22,10 @@ ul li {
     border-style: dotted;
     border-color: white;
     padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.detail_shippingShips, .detail_docks, .detail_haulers {
+    width: 30%;
 }

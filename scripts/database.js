@@ -7,13 +7,13 @@ const database = {
     ], 
     haulers: [
         { id: 1, name: "Pioneering Spirit", dockId: 4},
-        { id: 2, name: "Boaty McBoatface", dockId: 3},
+        { id: 2, name: "Boaty McBoatface", dockId: 1},
         { id: 3, name: "Seawise Giant", dockId: 2},
         { id: 4, name: "Chum Bucket", dockId: 1},
         { id: 5, name: "Weenie Hut Jr", dockId: 1}
     ], 
     shippingShips: [
-        { id: 1, name: "Esso Atlantic", haulerId: 5},
+        { id: 1, name: "Esso Atlantic", haulerId: 4},
         { id: 2, name: "Prairial", haulerId: 4},
         { id: 3, name: "Palais Royal", haulerId: 3}, 
         { id: 4, name: "Rivoli", haulerId: 2},
